@@ -4,6 +4,3 @@
   uses: ktomk/run-travis-yml@v1.7.0
   with:
     .travis
-
-    file: # optional, default is 
-    # Space separated list of steps to run. Leave empty / unset to run all custom steps.
